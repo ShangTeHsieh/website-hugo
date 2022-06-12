@@ -7,11 +7,11 @@ title: Example Site
 languages:
     zh-tw:
         languageName: 中文
-        title: 演示站點
+        title: 冒險者基地
         weight: 1
     en:
         languageName: English
-        title: Example Site
+        title: Adventurer's Base
         weight: 2
     
 
