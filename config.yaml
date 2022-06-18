@@ -50,7 +50,7 @@ params:
 
     sidebar:
         emoji: ☕
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: 勇敢冒險吧！Try doing.
         avatar:
             enabled: true
             local: true
